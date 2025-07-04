@@ -1,12 +1,17 @@
-.App {
-  text-align: center;
-  font-family: sans-serif;
-  padding: 40px;
-  background-color: #f3f3f3;
-  border-radius: 8px;
-  margin: 30px;
+/* index.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
 }
 
-h1 {
-  color: #1976d2;
+.App {
+  text-align: center;
+  padding: 40px;
+  background-color: white;
+  max-width: 600px;
+  margin: 50px auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  border-radius: 10px;
 }
